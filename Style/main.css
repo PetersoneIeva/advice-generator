@@ -5,3 +5,12 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+.quote {
+  height: 300px;
+  width: 500px;
+}
+
+.container {
+  height: 90vh;
+}
